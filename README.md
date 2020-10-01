@@ -4,7 +4,7 @@ I'm a student at NC State University studying Political Science and Computer Sci
 
 I'm currently serving as the Vice President of NC State's Linux Users' Group, and help out with organizing Hackpack, NCSU's student hacking/cybersecurity group.
 
-I spent this past summer as a Data Analyst intern at Red Hat, where I developed Python and Javascript tools to automate data cleaning processes.
+I spent this past summer as a data analyst intern at Red Hat, where I developed Python and Javascript tools to automate data cleaning processes.
 
 Areas of interest include software and web security, computer architecture, and cryptography.
 
