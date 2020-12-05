@@ -10,8 +10,8 @@ I spent this past Summer as a data analyst intern at Red Hat, where I developed 
 
 Areas of interest include software and web security, computer architecture, and cryptography.
 
-- 🔭 I’m currently working on ... a terminal client for HackerNews, but I'm mostly focused on school.
-- 🌱 I’m currently learning ... principals of software engineering through NCSU's CSC 216.
+- 🔭 I’m currently working on ... a mood tracking application in Go.
+- 🌱 I’m currently learning ... Data Structures and Algorithms (CSC 316) and C/Software Tools (CSC 230)
 - 👯 I’m looking to collaborate on ... anything!
 - 😄 Pronouns: ... He/Him/His
 
