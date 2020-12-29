@@ -10,7 +10,7 @@ I spent this past Summer as a data analyst intern at Red Hat, where I developed 
 
 Areas of interest include software and web security, computer architecture, and cryptography.
 
-- 🔭 I’m currently working on ... a mood tracking application in Go.
+- 🔭 I’m currently working on ... a chess engine in Java
 - 🌱 I’m currently learning ... Data Structures and Algorithms (CSC 316) and C/Software Tools (CSC 230)
 - 👯 I’m looking to collaborate on ... anything!
 - 😄 Pronouns: ... He/Him/His
