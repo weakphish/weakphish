@@ -8,7 +8,7 @@ I spent this past Summer as a data analyst intern at Red Hat, where I developed 
 
 Areas of interest include software and systems, static analysis, and reverse engineering.
 
-- 🔭 I’m currently working on ... CTFs ;)
+- 🔭 I’m currently working on ... my own programming language, written in C++
 - 🌱 I’m currently learning ... Reverse Engineering
 - 👯 I’m looking to collaborate on ... anything!
 - 😄 Pronouns: ... He/Him/His
