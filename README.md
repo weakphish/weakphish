@@ -6,7 +6,7 @@ I'm currently serving as the Vice President of Hackpack, NCSU's student hacking/
 
 I spent this past Summer as a data analyst intern at Red Hat, where I developed Python and Javascript tools to automate data cleaning processes.
 
-Areas of interest include software and web security, static analysis, and reverse engineering.
+Areas of interest include software and systems, static analysis, and reverse engineering.
 
 - 🔭 I’m currently working on ... CTFs ;)
 - 🌱 I’m currently learning ... Reverse Engineering
