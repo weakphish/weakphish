@@ -9,8 +9,8 @@ Coming up in July 2022, I will be joining Cisco full time as a Site Reliability 
 
 Areas of interest include software and systems, static analysis, and reverse engineering.
 
-- 🔭 I’m currently working on ... the HackPack Discord Bot!
-- 🌱 I’m currently learning ... the ins and outs of Go.
+- 🔭 I’m currently working on ... hacking the mainframe
+- 🌱 I’m currently learning ... binary exploitation
 - 👯 I’m looking to collaborate on ... anything!
 - 😄 Pronouns: ... He/Him/His
 
