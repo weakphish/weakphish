@@ -8,9 +8,3 @@ This past Summer (2021), I worked at Booz Allen Hamilton developing router secur
 Coming up in July 2022, I will be joining Cisco full time as a Site Reliability Engineer, which I am _really_ excited about.
 
 Areas of interest include software and systems, static analysis, and reverse engineering.
-
-- 🔭 I’m currently working on ... hacking the mainframe
-- 🌱 I’m currently learning ... binary exploitation
-- 👯 I’m looking to collaborate on ... anything!
-- 😄 Pronouns: ... He/Him/His
-
