@@ -1,3 +1,7 @@
-### I've migrated to GitLab
+### Hi there 👋 I'm Jack!
 
-You can find me [here](https://gitlab.com/a-weakfish) - leaving this stuff up for posterity and because I'm too lazy to go archive it all, but future code will live elsewhere.
+I'm a software engineer passionate about tooling, building platforms, and game dev.
+
+Currently, I work as a platform / software / all-the-things engineer in Cisco's Collab organization, making collaboration smarter and more efficient. 
+
+Before that, I worked as an SRE in Cisco's Network Services, automating data center networks and developing supporting microservices.
